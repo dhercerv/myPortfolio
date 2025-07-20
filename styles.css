@@ -120,7 +120,7 @@ p{
 
 /* About Me Section CTA */
 #aboutme {
-  background-color: #97d39b;
+  background-color: #d6ffd9;
   color: #fff;
   padding: 7% 15%;
   text-align: left;
@@ -136,7 +136,7 @@ p{
 #footer {
   padding: 7% 15%;
   text-align: center;
-  background-color: #d6ffd9;
+  background-color: #97d39b;
 }
 .social-icon {
   margin: 20px 10px;
